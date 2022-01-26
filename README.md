@@ -1,4 +1,7 @@
 # Airbnb_Price_Prediction_PySpark
+
+![Slide1](https://user-images.githubusercontent.com/66448653/151109377-7a65e0e0-4dc4-4233-9498-bbcd0ae05496.PNG)
+
 A comparison of price prediction models using pyspark and MLlib that aids hosts to price their rental and guests to evaluate the offered price.
 
 *Overview*
