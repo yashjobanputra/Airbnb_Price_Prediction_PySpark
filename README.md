@@ -38,3 +38,6 @@ We will be using the following methodology as our approach for effective price p
 -->Linear Regression has highest RMSE (10.46) with least R squared (0.7)
 
 ## **References**
+
+![Slide12](https://user-images.githubusercontent.com/66448653/151111570-4db10742-35a8-40bf-a828-967a452082c7.PNG)
+
