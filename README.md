@@ -27,4 +27,5 @@ We will be using the following methodology as our approach for effective price p
 
 *Output Generation & Analysis*
 
-
+![Slide6](https://user-images.githubusercontent.com/66448653/151109663-eb06035b-4689-4c36-a513-8961dd4aa1be.PNG)
+![Slide7](https://user-images.githubusercontent.com/66448653/151109665-0f4676cc-d49d-47d7-a3d4-4f697e1dd3c6.PNG)
