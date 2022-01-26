@@ -11,3 +11,5 @@ For this project, we would be sourcing data from the Airbnb website for multiple
 
 The end deliverable for this project would be a statistical model that would be built by analyzing over 0.3 GB of data collected from various sources. This goal would be to provide an understanding to the owners and tourists about those features that would be most important in determining the price and an optimal price that should be quoted for a property. We would present a comparative study of several regression models that would be developed by us for this dataset. In the process we would be performing end to end exploratory data analysis of the dataset, perform data cleaning and wrangling, data modelling and present the final study from a storytelling perspective using different visualizations.
 
+*Hypothesis*
+
