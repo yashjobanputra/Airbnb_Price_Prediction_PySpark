@@ -33,6 +33,6 @@ Conclusion & Summary
 
 -->Importing and merging the data of specific city, cleaned the data and preprocessed
 -->Performed Exploratory Data Analysis, and hypothesis testing to select the most relevant features
--->Regression models such as Linear Regression, Gradient Boosting, Decision Tree and Random Forest Regression were implemented
+-->Regression models such as Linear Regression, Gradient Boosting, Decision Tree and Random Forest Regression were implemented
 -->Gradient Boosting algorithm has the lowest RMSE (1.2) with R squared (0.9)
 -->Linear Regression has highest RMSE (10.46) with least R squared (0.7)
