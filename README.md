@@ -19,7 +19,6 @@ The end deliverable for this project would be a statistical model that would be 
 
 *Project Methodology*
 
-
 We will be using the following methodology as our approach for effective price prediction of Airbnb listings.
 
 ![Slide10](https://user-images.githubusercontent.com/66448653/151108999-5b17e3bc-6bf7-4b18-ba9d-b67ae2a1e3db.PNG)
@@ -29,3 +28,11 @@ We will be using the following methodology as our approach for effective price p
 
 ![Slide6](https://user-images.githubusercontent.com/66448653/151109663-eb06035b-4689-4c36-a513-8961dd4aa1be.PNG)
 ![Slide7](https://user-images.githubusercontent.com/66448653/151109665-0f4676cc-d49d-47d7-a3d4-4f697e1dd3c6.PNG)
+
+Conclusion & Summary
+
+-->Importing and merging the data of specific city, cleaned the data and preprocessed
+-->Performed Exploratory Data Analysis, and hypothesis testing to select the most relevant features
+-->Regression models such as Linear Regression, Gradient Boosting, Decision Tree and Random Forest Regression were implemented
+-->Gradient Boosting algorithm has the lowest RMSE (1.2) with R squared (0.9)
+-->Linear Regression has highest RMSE (10.46) with least R squared (0.7)
