@@ -14,6 +14,11 @@ The end deliverable for this project would be a statistical model that would be 
 ![Slide8](https://user-images.githubusercontent.com/66448653/151108843-afc5f2a1-9539-4891-86a1-a5cf56aa945c.PNG)
 ![Slide9](https://user-images.githubusercontent.com/66448653/151108845-f7ef81e6-04c6-45c0-a46e-765312d19447.PNG)
 
+*Project Methodology*
+
+
+We will be using the following methodology as our approach for effective price prediction of Airbnb listings.
+
 ![Slide10](https://user-images.githubusercontent.com/66448653/151108999-5b17e3bc-6bf7-4b18-ba9d-b67ae2a1e3db.PNG)
 ![Slide11](https://user-images.githubusercontent.com/66448653/151109002-05c71579-6953-487f-9dba-20967a95cbb1.PNG)
 
