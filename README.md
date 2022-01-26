@@ -13,3 +13,6 @@ The end deliverable for this project would be a statistical model that would be 
 
 *Hypothesis*
 
+![Slide8](https://user-images.githubusercontent.com/66448653/151108843-afc5f2a1-9539-4891-86a1-a5cf56aa945c.PNG)
+![Slide9](https://user-images.githubusercontent.com/66448653/151108845-f7ef81e6-04c6-45c0-a46e-765312d19447.PNG)
+
